@@ -15,4 +15,7 @@ The main objectives of lead scoring are as follows:
 We have chosen L2AC (Leads to Application Completion) as our business metric, as choosing L2P (Leads to Payment) will aggressively drop the leads.
 A lead is generated when any person visits CodePro’s website and enters their contact details on the platform. A junk lead is generated when a person who shares their contact details has no interest in the product/service.
 
-Having junk leads in the pipeline creates significant inefficiency in the sales process. Thus, the goal of the data science team is to build a system that categorises leads based on the likelihood of their purchasing CodePro’s course. This system will help remove the inefficiency caused by junk leads in the sales process.
+Having junk leads in the pipeline creates significant inefficiency in the sales process. 
+
+Thus, the goal is to build a system that categorises leads based on the likelihood of their purchasing CodePro’s course. 
+This system will help remove the inefficiency caused by junk leads in the sales process.
